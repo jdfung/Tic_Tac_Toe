@@ -15,7 +15,8 @@ The AI opponent uses the min-max algorithm to analyze all possible outcomes of e
 Getting Started
 
 To run the game, you need a C++ compiler installed on your computer. Clone or download the repository, open the project in your preferred C++ compiler, and compile and run the program.
-Prerequisites
+
+## Prerequisites
 
     A C++ compiler
     Familiarity with basic C++ syntax and concepts
